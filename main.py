@@ -17,6 +17,7 @@ arrY = [170, 168, 165, 161, 157, 153, 147, 141, 136, 130, 125, 119, 113, 105,
 plt.grid(True)
 plt.plot(arrX, arrY)
 
+# hello world
 # plt.xticks(np.arange(min(arrX), max(arrX)+1, 1.0))
 # plt.yticks(np.arange(min(arrY), max(arrY)+1, 1.0))
 
